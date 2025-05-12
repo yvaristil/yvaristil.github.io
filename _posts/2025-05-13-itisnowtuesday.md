@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: It now appears to be Tuesday.
