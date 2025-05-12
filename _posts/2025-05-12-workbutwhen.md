@@ -5,6 +5,7 @@ date: 2025-05-12
 categories: [introduction]
 ---
 
+![This could be me.](/images/gif1.gif)
 
 A random blog page experiment using github pages
 
