@@ -1,6 +1,6 @@
 ---
 layout: post
-title: workbutwhen
+title: work but when?
 date: 2025-05-12
 categories: [introduction]
 ---
