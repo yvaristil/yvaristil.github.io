@@ -1,11 +1,11 @@
-# This file contains configuration flags to customize your site
+s# This file contains configuration flags to customize your site
 #
 
 # Name of your site (displayed in the header)
 name: Sandbox.
 
 # Short bio or description (displayed in the header)
-
+description: Eat my sand
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/yvaristil/yvaristil.github.io/refs/heads/master/images/sandbox2.jpg
