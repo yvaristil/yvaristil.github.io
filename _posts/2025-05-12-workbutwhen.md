@@ -1,6 +1,6 @@
 ---
 layout: post
-title: workbuthwne
+title: workbutwhen
 date: 2025-05-12
 categories: [introduction]
 ---
