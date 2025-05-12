@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: who is doing this
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+![This could be me.](/images/gif1.gif)
 
-A place to include any other types of information that you'd like to include about yourself.
+a mysterious man with a harmonica and a big hat
+
+Just message email  ↓
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yusuf.aristil@gmail.com](mailto:yusuf.aristil@gmail.com)
