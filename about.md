@@ -1,6 +1,6 @@
 ---
 layout: page
-title: who is doing this
+title: Who is doing this
 permalink: /about/
 ---
 
