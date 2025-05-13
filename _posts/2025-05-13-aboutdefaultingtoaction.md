@@ -21,7 +21,7 @@ And most often, those "something doers" are one's parents.
 And we (unripe brain children) seem to forget that preeettyy often...
 
 
-![cd](images/cd.png)
+<img src="/images/cd.png" alt="cd" width="200"/>
 
 
 So when you go pick up the mail from the post box like any other day, but this time you see a paper from YTK with the credentials of your ____ noted on the cover, the realization suffocates you with guilt.
