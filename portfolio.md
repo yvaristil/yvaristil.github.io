@@ -5,3 +5,6 @@ permalink: /portfolio/
 ---
 
 ![BIKF](images/plane1.jpg)
+
+
+![EFHK](images/plane2.jpg)
