@@ -4,4 +4,4 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-![BIKF](images/plane1.jpg)
+[BIKF](images/plane1.jpg)
