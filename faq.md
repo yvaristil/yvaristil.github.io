@@ -7,11 +7,9 @@ categories: [introduction]
 
 
 
-<strong style="font-size:1em; font-family: Helvetica, Arial, sans-serif;">Why was this made </strong>
+<strong style="font-size:1em; font-family: Helvetica, Arial, sans-serif;">Why was this made?? </strong>
 
-To inspire people like you to not make the same mistakes as I did.
-
-<strong style="font-size:1em; font-family: Helvetica, Arial, sans-serif;">  </strong>
+Huh? Ask more sensible questions.
 
 
 <strong style="font-size:1em; font-family: Helvetica, Arial, sans-serif;">Can I help develop this site? </strong>
