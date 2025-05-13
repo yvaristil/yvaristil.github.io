@@ -11,7 +11,7 @@ categories: [introduction]
 
 <strong style="font-size:1em; font-family: Helvetica, Arial, sans-serif;">Why make something like this? </strong>
 
-It is inspired by  *<a href="https://waitbutwhy.com/" target="_blank">this blog*. 
+It is inspired by *<a href="https://waitbutwhy.com/" target="_blank">this blog* . 
 
 <strong style="font-size:1em; font-family: Helvetica, Arial, sans-serif;">Can I help develop this site? </strong>
 
