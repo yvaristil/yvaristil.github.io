@@ -11,7 +11,7 @@ You don't want to find out.
 .
 .
 
-<strong style="font-size:1em;">Why was this made </strong>
+<strong style="font-size:1em; font-family: Helvetica, Arial, sans-serif;">Why was this made </strong>
 
 To inspire people like you to not make the same mistakes as I did.
 
@@ -19,7 +19,7 @@ To inspire people like you to not make the same mistakes as I did.
 .
 .
 
-<strong style="font-size:1em;">Can I help develop this site? </strong>
+<strong style="font-size:1em; font-family: Helvetica, Arial, sans-serif;">Can I help develop this site? </strong>
 
   No.
   
@@ -27,7 +27,7 @@ To inspire people like you to not make the same mistakes as I did.
 .
 .
 
-<strong style="font-size:1em;">Why not?</strong>
+<strong style="font-size:1em; font-family: Helvetica, Arial, sans-serif;">Why not?</strong>
 
   Because I don't know you.
   
@@ -35,6 +35,6 @@ To inspire people like you to not make the same mistakes as I did.
 .
 .
 
-<strong style="font-size:1em;">But we've met before? </strong>
+<strong style="font-size:1em; font-family: Helvetica, Arial, sans-serif;">But we've met before? </strong>
 
   Right. Goodbye
