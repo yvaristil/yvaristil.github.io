@@ -1,7 +1,7 @@
 ---
 layout: post
 title: It now appears to be Tuesday.
-date: 2025-05-13
+date: 2025-05-12
 categories: [introduction]
 ---
 
