@@ -4,7 +4,9 @@ title: Some pics I think you like
 permalink: /portfolio/
 ---
 
-![BIKF](images/plane1.jpg)
 
 
-![EFHK](images/plane2.jpg)
+<img src="/images/plane1.jpg" alt="plane1" width="200" style="float: left;" />
+
+<img src="images/plane2.jpg" alt="plane 2" width="200" style="float: right;"/>
+
