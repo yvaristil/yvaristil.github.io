@@ -7,9 +7,11 @@ categories: [introduction]
 
 
 
-For a human to exist, it is essential that they believe in a higher being or power
+For man to be, it is essential that they believe in a higher power.
 
-It was an undisputed norm that in the past, a person's religion and their belief in God was this higher power
+<img src="/images/sujood.jpg" width=100>
+
+It was an undisputed norm that in the past, a person's religion and their belief in God was this higher power.
 
 Unfortunately, this is not the case today.
 
@@ -39,4 +41,4 @@ The foam may be plenty, but the strength is poor.
 
 We should remember not only to focus on the amount of believers, but the quality of our beliefs.
 
-<img src="/images/sujood.jpg" width=100>
+
