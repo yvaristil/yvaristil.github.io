@@ -1,3 +1,9 @@
+---
+layout: post
+title: About moving
+date: 2025-05-27
+categories: [introduction]
+---
 
 I've lived in the same row house for about a decade now.
 
